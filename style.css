@@ -1,0 +1,51 @@
+
+body {
+	background-color: rgb(101, 183, 221);
+  
+}
+      
+  .tacocontainer {
+        width="784";
+         bgcolor="blue" ;
+
+  
+}
+.paragraph {
+  font-family: Work Sans;
+  font-size: 50px;
+  font-weight: 300;  
+      }
+
+      #main {
+        display: grid;
+        grid-template-columns: 400px;
+        gap: 20px;
+        margin-top: 44px;
+        justify-items: center;
+        justify-content: center;
+        align-items: stretch;
+        align-content: center;
+        grid-auto-rows: 500px;
+        grid-auto-flow: column;}
+h2
+{
+  box-sizing: border-box;
+    margin: 0;
+    padding: auto;
+  font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #ffa500;
+    padding: auto;
+
+}
+footer {
+  box-sizing: border-box;
+    margin: 0;
+    padding: auto;
+    background-color: #ffa500;
+    text-align: center;
+    margin-top: 44px;
+}
